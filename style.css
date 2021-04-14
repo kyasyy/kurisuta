@@ -112,7 +112,7 @@ header
   display: flex;
   align-items: center;
   position: fixed;
-  top: 38px;
+  top: 80px;
   right: 4vw;
   z-index: 3;
 }
@@ -340,7 +340,7 @@ body.noscroll{
   top: 21px;
 }
 .burger-btn{
-  top: 25px;
+  top: 60px;
 }
 .header-nav{
   width: 67.7vw;
